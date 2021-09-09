@@ -22,4 +22,5 @@ func main() {
 	}, a)
 
 	res := funcs.IFF(len(a)>0, "has items", "no items")
+}
 ```
